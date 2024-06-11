@@ -1,9 +1,8 @@
-# Project Install Instructions
+# Project Details
 
-## Install
+## Functions
 
-1. clone
-2. pip install -r requirements.txt
+1. This calculator can add, subtract, multiply, and divide
 
 ## Testing
 
